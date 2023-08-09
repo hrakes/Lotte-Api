@@ -1,0 +1,89 @@
+{
+  "success": true,
+  "rows": [
+    {
+      "id": 1,
+      "name": "Miền Bắc",
+      "date": "",
+      "region": "bac",
+      "feature": 0,
+      "url_source": "https://ketqua.net/xo-so-truyen-thong.php",
+      "url_rss": "http://xskt.com.vn/rss-feed/mien-bac-xsmb.rss",
+      "url_minhngoc": "http://www.minhngoc.net.vn/ket-qua-xo-so/mien-bac.html",
+      "time_release": "18:15:00",
+      "status": 1,
+      "created_at": "2019-08-16 02:14:40",
+      "updated_at": "2019-08-16 16:00:36"
+    },
+    {
+      "id": 23,
+      "name": "Cần Thơ",
+      "date": "3",
+      "region": "nam",
+      "feature": 0,
+      "url_source": "https://ketqua.net/xo-so-can-tho.php",
+      "url_rss": "http://xskt.com.vn/rss-feed/can-tho-xsct.rss",
+      "url_minhngoc": "http://www.minhngoc.net.vn/ket-qua-xo-so/mien-nam/can-tho.html",
+      "time_release": "16:15:00",
+      "status": 1,
+      "created_at": "2019-08-16 02:14:40",
+      "updated_at": "2019-08-16 02:14:40"
+    },
+    {
+      "id": 24,
+      "name": "Đồng Nai",
+      "date": "3",
+      "region": "nam",
+      "feature": 0,
+      "url_source": "https://ketqua.net/xo-so-dong-nai.php",
+      "url_rss": "http://xskt.com.vn/rss-feed/dong-nai-xsdn.rss",
+      "url_minhngoc": "http://www.minhngoc.net.vn/ket-qua-xo-so/mien-nam/dong-nai.html",
+      "time_release": "16:15:00",
+      "status": 1,
+      "created_at": "2019-08-16 02:14:40",
+      "updated_at": "2019-08-16 02:14:40"
+    },
+    {
+      "id": 30,
+      "name": "Sóc Trăng",
+      "date": "3",
+      "region": "nam",
+      "feature": 0,
+      "url_source": "https://ketqua.net/xo-so-soc-trang.php",
+      "url_rss": "http://xskt.com.vn/rss-feed/soc-trang-xsst.rss",
+      "url_minhngoc": "http://www.minhngoc.net.vn/ket-qua-xo-so/mien-nam/soc-trang.html",
+      "time_release": "16:15:00",
+      "status": 1,
+      "created_at": "2019-08-16 02:14:40",
+      "updated_at": "2019-08-16 02:14:40"
+    },
+    {
+      "id": 3,
+      "name": "Đà Nẵng",
+      "date": "3,6",
+      "region": "trung",
+      "feature": 0,
+      "url_source": "https://ketqua.net/xo-so-da-nang.php",
+      "url_rss": "http://xskt.com.vn/rss-feed/da-nang-xsdng.rss",
+      "url_minhngoc": "http://www.minhngoc.net.vn/ket-qua-xo-so/mien-trung/da-nang.html",
+      "time_release": "17:15:00",
+      "status": 1,
+      "created_at": "2019-08-16 02:14:40",
+      "updated_at": "2019-08-16 02:14:40"
+    },
+    {
+      "id": 7,
+      "name": "Khánh Hòa",
+      "date": "3,0",
+      "region": "trung",
+      "feature": 0,
+      "url_source": "https://ketqua.net/xo-so-khanh-hoa.php",
+      "url_rss": "http://xskt.com.vn/rss-feed/khanh-hoa-xskh.rss",
+      "url_minhngoc": "http://www.minhngoc.net.vn/ket-qua-xo-so/mien-trung/khanh-hoa.html",
+      "time_release": "17:15:00",
+      "status": 1,
+      "created_at": "2019-08-16 02:14:40",
+      "updated_at": "2019-08-16 02:14:40"
+    }
+  ]
+}
